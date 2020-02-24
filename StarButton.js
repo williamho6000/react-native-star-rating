@@ -5,7 +5,7 @@ import PropTypes from "prop-types";
 import { createIconSetFromIcoMoon } from "react-native-vector-icons";
 
 // Third party imports
-import Button from "react-native-button";
+// import Button from "react-native-button";
 import { TouchableWithoutFeedback } from "react-native-gesture-handler";
 import EntypoIcons from "react-native-vector-icons/Entypo";
 import EvilIconsIcons from "react-native-vector-icons/EvilIcons";
