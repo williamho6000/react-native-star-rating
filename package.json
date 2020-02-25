@@ -35,11 +35,13 @@
       "<rootDir>/ExampleApp/"
     ]
   },
+  "peerDependencies": {
+    "react-native-gesture-handler": ">= 1.5.5"
+  },
   "dependencies": {
     "prop-types": "^15.5.10",
     "react-native-animatable": "^1.2.4",
     "react-native-button": "^2.3.0",
-    "react-native-gesture-handler": "^1.6.0",
     "react-native-vector-icons": "^4.5.0"
   },
   "repository": {
